@@ -340,3 +340,28 @@ if __name__ == "__main__":
     # Save model
     torch.save(model.state_dict(), 'audio_seq_model.pth')
     print("Model saved to audio_seq_model.pth")
+
+
+
+
+
+
+(base) kinema@kinema-System-Product-Name:~/Desktop/NeuroSabi_libido/predict-model$ python modelling_seq.py 
+Epoch 1/50, Train Loss: 10359000.0000, Val Loss: 10520679.1429
+Epoch 2/50, Train Loss: 9876402.0517, Val Loss: 9500600.1429
+Epoch 3/50, Train Loss: 7986693.1207, Val Loss: 6505243.5714
+Epoch 4/50, Train Loss: 4277388.7241, Val Loss: 2297166.4286
+Epoch 5/50, Train Loss: 1109778.3817, Val Loss: 417220.8929
+Epoch 6/50, Train Loss: 614764.8217, Val Loss: 370371.9531
+Epoch 7/50, Train Loss: 595641.5086, Val Loss: 379878.9252
+Epoch 8/50, Train Loss: 600578.0119, Val Loss: 376068.5190
+Epoch 9/50, Train Loss: 622451.3475, Val Loss: 426010.4732
+Epoch 10/50, Train Loss: 604681.8470, Val Loss: 376764.4754
+Epoch 11/50, Train Loss: 625074.9343, Val Loss: 402322.6373
+Epoch 12/50, Train Loss: 618807.8103, Val Loss: 391555.8259
+Epoch 13/50, Train Loss: 599932.6638, Val Loss: 394615.4743
+Epoch 14/50, Train Loss: 640563.7446, Val Loss: 390219.5391
+Epoch 15/50, Train Loss: 630673.3319, Val Loss: 372921.5787
+Epoch 16/50, Train Loss: 655618.1627, Val Loss: 369351.4353
+Epoch 17/50, Train Loss: 657807.2834, Val Loss: 385831.3884
+Epoch 18/50, Train Loss: 596372.4881, Val Loss: 369650.2450
