@@ -1,0 +1,29 @@
+(nsb) kinema@kinema-System-Product-Name:~/Desktop/NeuroSabi_libido/predict-model$ python modelling_seq.py 
+Epoch 1/25, Train Loss: 0.1110, Val Loss: 0.0479
+Epoch 2/25, Train Loss: 0.0570, Val Loss: 0.0420
+Epoch 3/25, Train Loss: 0.0443, Val Loss: 0.0357
+Epoch 4/25, Train Loss: 0.0525, Val Loss: 0.0333
+Epoch 5/25, Train Loss: 0.0428, Val Loss: 0.0365
+Epoch 6/25, Train Loss: 0.0390, Val Loss: 0.0213
+Epoch 7/25, Train Loss: 0.0315, Val Loss: 0.0120
+Epoch 8/25, Train Loss: 0.0266, Val Loss: 0.0180
+Epoch 9/25, Train Loss: 0.0267, Val Loss: 0.0111
+Epoch 10/25, Train Loss: 0.0182, Val Loss: 0.0059
+Epoch 11/25, Train Loss: 0.0203, Val Loss: 0.0066
+Epoch 12/25, Train Loss: 0.0209, Val Loss: 0.0077
+Epoch 13/25, Train Loss: 0.0177, Val Loss: 0.0063
+Epoch 14/25, Train Loss: 0.0202, Val Loss: 0.0076
+Epoch 15/25, Train Loss: 0.0173, Val Loss: 0.0093
+Epoch 16/25, Train Loss: 0.0221, Val Loss: 0.0099
+Epoch 17/25, Train Loss: 0.0171, Val Loss: 0.0040
+Epoch 18/25, Train Loss: 0.0136, Val Loss: 0.0040
+Epoch 19/25, Train Loss: 0.0167, Val Loss: 0.0031
+Epoch 20/25, Train Loss: 0.0128, Val Loss: 0.0034
+Epoch 21/25, Train Loss: 0.0134, Val Loss: 0.0040
+Epoch 22/25, Train Loss: 0.0158, Val Loss: 0.0050
+Epoch 23/25, Train Loss: 0.0143, Val Loss: 0.0031
+Epoch 24/25, Train Loss: 0.0130, Val Loss: 0.0041
+Epoch 25/25, Train Loss: 0.0133, Val Loss: 0.0035
+RMSE for frequency (f): 0.05
+RMSE for impedance (Z): 0.07
+Model saved to audio_seq_model.pth
